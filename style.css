@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+nav{
+    background-color: bisque;
+}
+div {
+    width: 80%;
+    background-color: darkblue;
+    margin-right: auto;
+    margin-left: auto;
+}
